@@ -1,0 +1,18 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.site-heading-lower{
+    font-family: 'Times New Roman', Times, serif;
+}
+.mb-3{
+    color: yellow !important;
+}
+.notyellow{
+    color: black !important; 
+}
+.intro-text{
+    box-shadow: 15px 15px 20px rgba(0,0,0, 0.5);
+}
+.section-heading-lower{
+    box-shadow: 15px 15px 20px rgba(0,0,0, 0.5);
+}

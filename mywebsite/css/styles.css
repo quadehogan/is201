@@ -1,0 +1,51 @@
+body {
+    background-color: bisque;
+    color: brown;
+    /* text color */
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+}
+
+a {
+    color: brown;
+}
+
+a:visited {
+    color: cornflowerblue;
+}
+
+img {
+    border: 2px solid brown;
+    padding: 3px;
+    margin: 5px;
+    /* center stuff */
+    /* display: block;
+    margin: auto; */
+}
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+.rizz:hover{
+    color: dimgrey;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 300;
+    text-align: center;
+    margin: 10px;
+    background-color: rgb(224, 186, 186);
+    border: 3px solid dimgrey;
+    padding: 5px;
+}
+li{
+    text-decoration: underline
+}
